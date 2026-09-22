@@ -1,5 +1,7 @@
-+++
-title = 'Projects'
-date = 2026-09-22T18:46:16+02:00
-draft = true
-+++
+---
+title: "Projets"
+date: 2026-09-22
+draft: false
+---
+
+Retrouvez ici mes différents projets et labs, en cours ou terminés.
