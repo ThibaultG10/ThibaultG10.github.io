@@ -1,0 +1,26 @@
+baseURL: https://example.org/
+locale: fr-FR
+title: My New Hugo Site
+theme: ["PaperMod"]
+menu:
+  main:
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      weight: 10
+    - identifier: projects
+      name: Projets
+      url: /projects/
+      weight: 20
+    - identifier: about
+      name: Qui suis-je
+      url: /about/
+      weight: 30
+    - identifier: uses
+      name: Uses
+      url: /uses/
+      weight: 40
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
