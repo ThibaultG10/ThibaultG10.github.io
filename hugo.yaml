@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 locale: fr-FR
-title: My New Hugo Site
+title: "Thibault Guillonneau"
 theme: ["PaperMod"]
 menu:
   main:
@@ -24,3 +24,20 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
+params:
+  mainSections: ["posts"]
+  profileMode:
+    enabled: true
+    title: "Thibault Guillonneau"
+    subtitle: "Admin sys & réseau en alternance, je documente ici mes labs et ma montée en compétences en réseau et cybersécurité."
+    imageUrl: "/images/avatar.png"
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: "Photo de profil"
+  socialIcons:
+    - name: email
+      url: "mailto:contact@thibault-guillonneau.fr"
+    - name: linkedin
+      url: "https://linkedin.com/in/thibault-guillonneau"
+    - name: github
+      url: "https://github.com/ThibaultG10"
