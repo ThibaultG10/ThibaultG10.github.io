@@ -16,14 +16,10 @@ menu:
       name: Qui suis-je
       url: /about/
       weight: 30
-    - identifier: uses
-      name: Uses
-      url: /uses/
-      weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 50
+      weight: 40
 params:
   mainSections: ["posts"]
   profileMode:
