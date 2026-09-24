@@ -2,6 +2,7 @@
 title: "Contact"
 date: 2026-09-22
 draft: false
+comments : false
 ---
 
 N'hésitez pas à me contacter si vous avez une question, une remarque, ou simplement envie d'échanger sur le réseau ou la cybersécurité.

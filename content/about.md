@@ -2,6 +2,7 @@
 title: "Qui suis-je"
 date: 2026-09-22
 draft: false
+comments : false
 ---
 
 ## Salut, moi c'est Thibault 👋
