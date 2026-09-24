@@ -37,3 +37,4 @@ params:
       url: "https://linkedin.com/in/thibault-guillonneau"
     - name: github
       url: "https://github.com/ThibaultG10"
+  comments: true
