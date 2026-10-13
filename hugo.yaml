@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://thibault-guillonneau.fr/
 locale: fr-FR
 title: "Thibault Guillonneau"
 theme: ["PaperMod"]
@@ -47,3 +47,4 @@ params:
       url: "https://linkedin.com/in/thibault-guillonneau"
     - name: github
       url: "https://github.com/ThibaultG10"
+
