@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Logo TG">
+  <title>TG</title>
+  <circle cx="100" cy="100" r="92" fill="#F4EFE6"/>
+  <g transform="translate(100 100) scale(0.7) translate(-100 -99)">
+    <g fill="none" stroke="#12202F" stroke-width="16">
+      <path d="M14 58H86M50 58V146"/>
+      <path d="M166.3 71.7A40 40 0 1 0 178 100H140"/>
+    </g>
+    <path d="M128 84L103.4 80" fill="none" stroke="#8A5A12" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="128" cy="84" r="9" fill="#8A5A12"/>
+  </g>
+</svg>

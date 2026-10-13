@@ -22,14 +22,24 @@ menu:
       weight: 40
 params:
   mainSections: ["posts"]
+  comments: true
+  label:
+    text: "Thibault Guillonneau"
+    icon: /images/logo-tg-sombre.svg
+    iconHeight: 35
+  assets:
+    favicon: "/images/favicon.svg"
+    favicon16x16: "/images/favicon.svg"
+    favicon32x32: "/images/favicon.svg"
+    apple_touch_icon: "/images/favicon.svg"
   profileMode:
     enabled: true
     title: "Thibault Guillonneau"
     subtitle: "Admin sys & réseau en alternance, je documente ici mes labs et ma montée en compétences en réseau et cybersécurité."
-    imageUrl: "/images/avatar.png"
+    imageUrl: "/images/logo-tg-sombre.svg"
     imageWidth: 150
     imageHeight: 150
-    imageTitle: "Photo de profil"
+    imageTitle: "Logo Thibault Guillonneau"
   socialIcons:
     - name: email
       url: "mailto:contact@thibault-guillonneau.fr"
@@ -37,4 +47,3 @@ params:
       url: "https://linkedin.com/in/thibault-guillonneau"
     - name: github
       url: "https://github.com/ThibaultG10"
-  comments: true
