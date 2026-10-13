@@ -1,7 +1,7 @@
 ---
 title: "Les gestionnaires de mots de passe, expliqués à ma grand-mère"
-date: 2026-10-13T21:35:00+02:00
-draft: true
+date: 2026-10-13
+draft: false
 ShowToc: true
 TocOpen: true
 ---
