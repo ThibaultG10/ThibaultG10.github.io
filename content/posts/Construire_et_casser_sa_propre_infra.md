@@ -1,9 +1,9 @@
 +++
-title = Construire et casser sa propre infrastructure : IaC, Podman et audit de sécurité'
+title = 'Construire et casser sa propre infrastructure : IaC, Podman et audit de sécurité'
 date = 2026-11-01T21:17:37+01:00
 draft = false
 +++
-# Construire et casser sa propre infrastructure : IaC, Podman et audit de sécurité
+
 
 Il y a deux semaines, je ne connaissais ni Terraform ni les subtilités de Podman. Dans le cadre d'un TP de cybersécurité, j'ai dû construire une infrastructure conteneurisée de A à Z — réseau segmenté, passerelle, backends, base de données — puis la mettre à l'épreuve avec une machine d'attaque. Pas un exercice théorique : une vraie construction, suivie d'une vraie tentative de la faire plier.
 
