@@ -1,11 +1,12 @@
 ---
 title: "Lab Defend Center"
-date: 2026-11-01
-draft: true
+date: 2026-11-01T21:00:00+01:00
+draft: false
 description: "Un laboratoire VirtualBox qui reproduit l'architecture d'un Defend Center : pare-feu, détection, supervision et attaques de test."
 summary: "Je monte dans VirtualBox une version réduite d'un Defend Center, un boîtier de sécurité open source pensé pour les petites entreprises, afin de valider son architecture et son temps de reconstruction."
 tags: ["cybersécurité", "lab", "virtualbox", "opnsense", "wazuh", "suricata"]
 categories: ["Projets"]
+comments: false
 ---
 
 Un Defend Center, c'est l'idée d'un boîtier de sécurité à destination des petites entreprises : on l'ajoute à leur système d'information existant, et il apporte d'un coup un pare-feu, une détection d'intrusion, un SIEM et des tableaux de bord, le tout en open source. Le service est complété par de l'humain : un RSSI à temps partagé, un consultant, un analyste SOC. L'argument commercial tient en une phrase : si le boîtier tombe en panne ou brûle, on peut le recréer en une journée.
