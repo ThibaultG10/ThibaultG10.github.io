@@ -1,5 +1,5 @@
 +++
-title = 'Construire_et_casser_sa_propre_infra'
+title = Construire et casser sa propre infrastructure : IaC, Podman et audit de sécurité'
 date = 2026-11-01T21:17:37+01:00
 draft = false
 +++
