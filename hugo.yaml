@@ -16,6 +16,10 @@ menu:
       name: Qui suis-je
       url: /about/
       weight: 30
+    - identifier: tools
+      name: Outils
+      url: /outils/
+      weight: 35
     - identifier: contact
       name: Contact
       url: /contact/
